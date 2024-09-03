@@ -5,7 +5,7 @@
 
 ### 🧐 More About Me:
 
-<img align="right" alt="GIF" src="assets/banner2.jpg" width="280px" style="padding: 20px 40px 20px 20px;"/>
+<img align="right" alt="GIF" src="assets/banner.jpg" width="280px" style="padding: 20px 40px 20px 20px;"/>
 
 -   ✨ &nbsp; MBTI Type: **INTJ** -- if you know, you know
 -   📚 &nbsp; I’m currently a graduate student at Khoury College of Computer Science, Northeastern University
