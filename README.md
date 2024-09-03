@@ -1,7 +1,8 @@
-<h1 align="center">Oh! Hi there, I'm Jianqing Ma</a> <img src="assets/Hi.gif" height="32" /></h1>
+<h1 align="center">Oh! Hi there, I'm Jianqing Ma <img src="assets/Hi.gif" height="32" /></h1>
 <br />
 
-##### Welcome to my github page! I'm Jianqing, a fullstack developer from China, currently living in Boston, MA.
+<h5 align="center">Welcome to my github page! </h5>
+<h5 align="center">I'm Jianqing, a fullstack developer from China, currently living in Boston, MA.  </h5>
 
 <img align="right" alt="GIF" src="assets/girls_code_too.jpg" width="280px" style="padding: 20px 40px 20px 20px;"/>
 
