@@ -3,20 +3,21 @@
 
 Welcome to my github page! I'm Jianqing, a fullstack developer from China, currently living in Boston, MA.
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/jianqing77/github-stats-transparent/output/generated/languages.svg" width="360px"/>
+
 ### 🧐 More About Me:
 
+-   ✨ &nbsp; MBTI Type: **INTJ**
 -   📚 &nbsp; I’m currently a graduate student at Khoury College of Computer Science, Northeastern University
--   ❓ I'm currently in the life stage of self-discovery. I've tried to be more adaptable, but I feel the need to concentrate on a single field to deepen my expertise at this stage.
+-   ❓ &nbsp; I'm in the life stage of self-discovery. I've tried to be more adaptable, but I feel the need to concentrate on a single field to deepen my expertise.
 -   🌱 &nbsp; I'm currently learning **Typescript**; always excited about something new.
 -   🔍 &nbsp; I'm also trying to explore the world of **Machine Learning** — need to keep on track:).
 -   🤖 &nbsp; You can check out my previous and ongoing projects on [GitHub Repository](https://github.com/jianqing77?tab=repositories).
 -   🤝 &nbsp; I would love to collaborate on my new project, [Vinyland](https://github.com/jianqing77/Vinyland), a paradise for vinyl record lovers!
 -   🐶 &nbsp; Dog lover FOREVER.
 -   📷 &nbsp; I'm passionate about photography — capturing some precious moments and tell others about the story.
--   ✨ &nbsp; MBTI Type: **INTJ**
 -   ⚡ Fun fact: I brush my teeth more than three times per day.
--   📫 &nbsp; Let's connect! Drop me a message on [LinkedIn](https://www.linkedin.com/in/jianqing-ma/).
--   💬 &nbsp; Ask me about anything tech related, I am happy to help.
+-   📫 &nbsp; Let's connect! Leave me a message on [LinkedIn](https://www.linkedin.com/in/jianqing-ma/).
 
 ### 🔨 Languages and Tools:
 
@@ -56,6 +57,14 @@ Welcome to my github page! I'm Jianqing, a fullstack developer from China, curre
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
 
 </p>
+
+### 📊 Github Stats
+
+<a href='https://github.com/jianqing77/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/jianqing77/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/jianqing77/github-stats-transparent/output/generated/languages.svg)
+
 <!-- <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="assets/logo-python.svg"></a>
 <a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="assets/logo-android.svg"> </a>
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="assets/logo-java.svg"></a>
