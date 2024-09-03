@@ -3,9 +3,9 @@
 
 <p align="center">Welcome to my github page! I'm Jianqing, a fullstack developer from China, currently living in Boston, MA. </p>
 
-<img align="right" alt="GIF" src="assets/girls_banner.jpg" width="280px" style="padding: 20px 40px 20px 20px;"/>
-
 ### 🧐 More About Me:
+
+<img align="right" alt="GIF" src="assets/girls_banner.jpg" width="280px" style="padding: 20px 40px 20px 20px;"/>
 
 -   ✨ &nbsp; MBTI Type: **INTJ** -- if you know, you know
 -   📚 &nbsp; I’m currently a graduate student at Khoury College of Computer Science, Northeastern University
