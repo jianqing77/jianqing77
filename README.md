@@ -1,14 +1,13 @@
 <h1 align="center">Oh! Hi there, I'm Jianqing Ma <img src="assets/Hi.gif" height="32" /></h1>
 <br />
 
-<h5 align="center">Welcome to my github page! </h5>
-<h5 align="center">I'm Jianqing, a fullstack developer from China, currently living in Boston, MA.  </h5>
+<p align="center">Welcome to my github page! I'm Jianqing, a fullstack developer from China, currently living in Boston, MA. </p>
 
-<img align="right" alt="GIF" src="assets/girls_code_too.jpg" width="280px" style="padding: 20px 40px 20px 20px;"/>
+<img align="right" alt="GIF" src="assets/girls_banner.jpg" width="280px" style="padding: 20px 40px 20px 20px;"/>
 
 ### 🧐 More About Me:
 
--   ✨ &nbsp; MBTI Type: **INTJ**
+-   ✨ &nbsp; MBTI Type: **INTJ** -- if you know, you know
 -   📚 &nbsp; I’m currently a graduate student at Khoury College of Computer Science, Northeastern University
 -   ❓ &nbsp; I'm in the life stage of self-discovery. I've tried to be more adaptable, but I feel the need to concentrate on a single field to deepen my expertise.
 -   🌱 &nbsp; I'm currently learning **Typescript**; always excited about something new.
