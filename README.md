@@ -1,12 +1,15 @@
-<h1 align="center">Hello there, I'm Jianqing Ma</a> <img src="assets/Hi.gif" height="32" /></h1>
+<h1 align="center">Oh! Hi there, I'm Jianqing Ma</a> <img src="assets/Hi.gif" height="32" /></h1>
 <br />
+
+Welcome to my github page! I'm Jianqing, a fullstack developer from China, currently living in Boston, MA.
 
 ### 🧐 More About Me:
 
 -   📚 &nbsp; I’m currently a graduate student at Khoury College of Computer Science, Northeastern University
+-   ❓ I'm currently in the life stage of self-discovery. I've tried to be more adaptable, but I feel the need to concentrate on a single field to deepen my expertise at this stage.
 -   🌱 &nbsp; I'm currently learning **Typescript**; always excited about something new.
 -   🔍 &nbsp; I'm also trying to explore the world of **Machine Learning** — need to keep on track:).
--   🤖 &nbsp; You can check out my projects on [GitHub](https://github.com/jianqing77?tab=repositories).
+-   🤖 &nbsp; You can check out my previous and ongoing projects on [GitHub Repository](https://github.com/jianqing77?tab=repositories).
 -   🤝 &nbsp; I would love to collaborate on my new project, [Vinyland](https://github.com/jianqing77/Vinyland), a paradise for vinyl record lovers!
 -   🐶 &nbsp; Dog lover FOREVER.
 -   📷 &nbsp; I'm passionate about photography — capturing some precious moments and tell others about the story.
@@ -51,7 +54,6 @@
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 
 </p>
 <!-- <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="assets/logo-python.svg"></a>
