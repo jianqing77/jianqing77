@@ -1,9 +1,10 @@
 <h1 align="center">Oh! Hi there, I'm Jianqing Ma</a> <img src="assets/Hi.gif" height="32" /></h1>
 <br />
 
-Welcome to my github page! I'm Jianqing, a fullstack developer from China, currently living in Boston, MA.
+##### Welcome to my github page! I'm Jianqing, a fullstack developer from China, currently living in Boston, MA.
 
-<img align="right" alt="GIF" src="assets/girls_code_too.jpg" width="300px" style="padding: 10px 30px 20px 20px;"/>
+<img align="right" alt="GIF" src="assets/girls_code_too.jpg" width="280px" style="padding: 20px 40px 20px 20px;"/>
+
 ### 🧐 More About Me:
 
 -   ✨ &nbsp; MBTI Type: **INTJ**
