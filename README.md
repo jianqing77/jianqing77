@@ -3,7 +3,7 @@
 
 Welcome to my github page! I'm Jianqing, a fullstack developer from China, currently living in Boston, MA.
 
-<img align="right" alt="GIF" src="assets/girls_code_too.jpg" width="360px"/>
+<img align="right" alt="GIF" src="assets/girls_code_too.jpg" width="300px" style="padding: 20px;"/>
 
 ### 🧐 More About Me:
 
