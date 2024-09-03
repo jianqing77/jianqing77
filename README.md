@@ -8,10 +8,10 @@
 <img align="right" alt="GIF" src="assets/banner.jpg" width="280px" style="padding: 20px 40px 20px 20px;"/>
 
 -   ✨ &nbsp; MBTI Type: **INTJ** -- if you know, you know
--   📚 &nbsp; I’m currently a graduate student at Khoury College of Computer Science, Northeastern University
--   ❓ &nbsp; I'm in the life stage of self-discovery. I've tried to be more adaptable, but I feel the need to concentrate on a single field to deepen my expertise.
+-   📚 &nbsp; I’m currently a graduate student at Khoury College of Computer Science, Northeastern University; I'll graduate in December so I'm open to all opportunities!
+-   ❓ &nbsp; I'm in the life period of self-discovery. I've trained myself to be more adaptable, but I feel the need to concentrate on a single field to deepen my expertise at this stage.
 -   🌱 &nbsp; I'm currently learning **Typescript**; always excited about something new.
--   🔍 &nbsp; I'm also trying to explore the world of **Machine Learning** — need to keep on track:).
+-   🔍 &nbsp; I'm also trying to explore the world of **Machine Learning** — not a big fan of math but need to keep on track:).
 -   🤖 &nbsp; You can check out my previous and ongoing projects on [GitHub Repository](https://github.com/jianqing77?tab=repositories).
 -   🤝 &nbsp; I would love to collaborate on my new project, [Vinyland](https://github.com/jianqing77/Vinyland), a paradise for vinyl record lovers!
 -   🐶 &nbsp; Dog lover FOREVER.
