@@ -16,7 +16,8 @@
 -   🤝 &nbsp; I would love to collaborate on my new project, [Vinyland](https://github.com/jianqing77/Vinyland).
 -   🐶 &nbsp; Dog lover FOREVER.
 -   📷 &nbsp; I'm passionate about photography — capturing some precious moments and tell others about the story.
--   ⚡ Fun fact: I brush my teeth more than three times per day.
+-   ⚡ Fun fact &nbsp; I brush my teeth more than three times per day.
+-   ⭐ &nbsp; Feel free to check out my portfolio website: [Jianqing Ma](https://jianqing-portfolio.vercel.app/)
 -   📫 &nbsp; Let's connect! Leave me a message on [LinkedIn](https://www.linkedin.com/in/jianqing-ma/).
 
 ### 🔨 Languages and Tools:
