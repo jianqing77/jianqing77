@@ -5,7 +5,7 @@
 
 ### 🧐 More About Me:
 
-<img align="right" alt="GIF" src="assets/player-2.png" width="260px" style="padding: 20px 40px 40px 20px;"/>
+<img align="right" alt="GIF" src="assets/player-3.png" width="260px" style="padding: 20px 40px 40px 20px;"/>
 
 -   ✨ &nbsp; MBTI Type: **INTJ** -- if you know, you know
 -   📚 &nbsp; I’m currently a graduate student at Khoury College of Computer Science, Northeastern University; I'll graduate in December this year.
@@ -16,7 +16,7 @@
 -   🤝 &nbsp; I would love to collaborate on my new project, [Vinyland](https://github.com/jianqing77/Vinyland).
 -   🐶 &nbsp; Dog lover FOREVER.
 -   📷 &nbsp; I'm passionate about photography — capturing some precious moments and tell others about the story.
--   ⚡ Fun fact &nbsp; I brush my teeth more than three times per day.
+-   ⚡ Fun fact: &nbsp; I brush my teeth more than three times per day.
 -   ⭐ &nbsp; Feel free to check out my portfolio website: [Jianqing Ma](https://jianqing-portfolio.vercel.app/)
 -   📫 &nbsp; Let's connect! Leave me a message on [LinkedIn](https://www.linkedin.com/in/jianqing-ma/).
 
