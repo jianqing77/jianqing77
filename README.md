@@ -9,7 +9,7 @@
 
 -   ✨ &nbsp; MBTI Type: **INTJ** -- if you know, you know
 -   📚 &nbsp; I’m currently a graduate student at Khoury College of Computer Science, Northeastern University; I'll graduate in December this year.
--   ❓ &nbsp; I'm in the life period of self-discovery. I've trained myself to be more adaptable, but I feel the need to concentrate on a single field to deepen my expertise at this stage.
+-   ❓ &nbsp; I'm in the life period of self-discovery.
 -   🌱 &nbsp; I'm currently learning **Typescript**; always excited about something new.
 -   🔍 &nbsp; I'm also actively exploring the world of **Machine Learning** — I'm especially interested in LLM and we need to keep on track:).
 -   🤖 &nbsp; You can check out my previous and ongoing projects on [GitHub Repository](https://github.com/jianqing77?tab=repositories).
