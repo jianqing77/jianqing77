@@ -1,4 +1,6 @@
-<h1 align="center">Hi! My name is Jianqing Ma <img src="assets/Hi.gif" height="32" /></h1>
+<h3 align="center">Hi! My name is Jianqing(Jacquinn) Ma </h3>
+<!-- <img src="assets/Hi.gif" height="2" />
+ -->
 <br />
 
 <p align="center">Welcome to my github page! I'm Jianqing, a fullstack developer in Boston, MA. </p>
